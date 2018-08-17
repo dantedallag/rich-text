@@ -1,3 +1,6 @@
+This version of OT/rich-text use a couple of portions of gkubisa's rich-text implemention at https://github.com/Teamwork/ot-rich-text to add presence data associated with the text.
+
+
 # Rich Text OT Type [![Build Status](https://travis-ci.org/ottypes/rich-text.svg?branch=master)](https://travis-ci.org/ottypes/rich-text)
 
 An OT Type for rich text documents.
